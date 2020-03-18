@@ -25,7 +25,7 @@
 		}
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.0.4",
+	"libVersion": "2.10.3",
 	"appid": "touristappid",
 	"projectname": "hehe-1",
 	"debugOptions": {
